@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: build/Release
+  QueryDriver:
+    - >-
+      C:\Users\Lenovo\AppData\Local\stm32cube\bundles\gnu-tools-for-stm32\**\bin\arm-none-eabi-gcc*
